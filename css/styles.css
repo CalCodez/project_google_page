@@ -45,18 +45,18 @@ a:hover {
 #mobile-menu {
 	display: none;
 	width: 200px;
-	height: 400px;
-	outline: 1px solid red;
+	height: 300px;
 	position: absolute;
-	background-color: #000000;
+	background-color: #000000cd;
 	z-index: 2;
 	flex-direction: column;
 	justify-content: flex-start;
 	align-items: center;
-	font-size: 1.2em;
-	line-height: 1.5;
+	font-size: 1.09em;
+	line-height: 1.6;
 	right: 75px;
 	top: 3px;
+	padding-top: 15px;
 }
 
 #menu-toggler {
